@@ -14,4 +14,5 @@ Cada projeto inclui: objetivos, habilidades demonstradas, evidências (pcap/scre
 Contato
 
 Email: eduardoedu9685@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/seunome](https://www.linkedin.com/in/eduardo-pires-19a26b349
