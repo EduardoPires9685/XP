@@ -1,6 +1,6 @@
 Portfólio de Cybersecurity — Eduardo Pires
 
-Bem-vindo(a). Este repositório documenta meus estudos e projetos em cybersecurity: laboratórios, writeups, ferramentas, notas e etc.
+Bem-vindo(a). Este repositório documenta meus estudos e projetos em cybersecurity: laboratórios, cursos, certificações, ferramentas, notas e etc.
 
 Sumário
 
