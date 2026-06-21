@@ -1,0 +1,32 @@
+[Título do Projeto] — (ex: Pentest Lab: Web App)
+Resumo
+
+Data: 2026-06
+Duração: ~10 horas
+Objetivo: (ex: explorar vulnerabilidades de autenticação e documentar mitigação)
+Habilidades demonstradas: enumeração, fuzzing, XSS, SQLi, uso de Burp/OWASP ZAP, análise de pcap
+Conteúdo
+
+/pcap — capturas de tráfego (redigidas)
+/screenshots — evidências (redigidas)
+/scripts — ferramentas / scripts usados
+report.pdf — relatório conciso do exercício
+Passo a passo (resumo)
+
+Preparação do ambiente (VM, versões)
+Enumeração (nmap / gobuster)
+Exploração (payloads, ferramentas)
+Pós-exploração e coleta de evidências
+Mitigações sugeridas
+Como reproduzir (se aplicável)
+
+Pré-requisitos: Docker, VirtualBox, etc.
+Comandos principais:
+docker compose up -d
+python3 exploit.py --target 10.0.0.5
+Observações sobre segurança e privacidade
+
+Dados sensíveis foram removidos/anonimizados. Nunca suba senhas, chaves privadas ou imagens com dados pessoais.
+Contato / autor
+
+Seu Nome — seu.email@example.com
