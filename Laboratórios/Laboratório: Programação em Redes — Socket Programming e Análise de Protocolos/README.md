@@ -1,27 +1,24 @@
-# Pentest Lab: Programação em Redes
+# Pentest Lab: Programação em Redes — Servidor com Desafios
 
 ## Resumo
 - **Data:** Junho/2026  
-- **Duração:** ~10 horas  
-- **Objetivo:** Desenvolver aplicações cliente-servidor com sockets (TCP/UDP), implementar protocolos HTTP/DNS e analisar o tráfego com Wireshark.  
-- **Habilidades:** Socket programming (Python), análise de pacotes, protocolos de rede, depuração e tratamento de erros.
+- **Duração:** ~8 horas  
+- **Objetivo:** Desenvolver um servidor TCP com múltiplos desafios de lógica, armadilhas e entrega de FLAG.  
+- **Habilidades:** Sockets (TCP), validação de entrada, controle de estado, decodificação Base64, regex, hashing, tratamento de exceções.
 
 ## Estrutura do Lab
-- `/src` — códigos-fonte dos servidores/clientes  
-- `/pcaps` — capturas de tráfego (redigidas)  
-- `/screenshots` — evidências (redigidas)  
-- `/docs` — documentação técnica  
+- `/src` — código-fonte do servidor e cliente base  
+- `/docs` — documentação da arquitetura dos desafios (sem soluções)  
 - `report.pdf` — relatório final
 
 ## Como Reproduzir
 1. Clone o repositório  
-2. Instale Python 3.11+  
-3. Execute os servidores e clientes conforme instruções  
-4. Capture e analise o tráfego com Wireshark
+2. Execute `python3 server.py`  
+3. Execute `python3 client.py`  
+4. Ou use `nc localhost 5555` para testes manuais
 
 ## Segurança
 Dados sensíveis foram removidos. Não armazene senhas ou chaves no repositório.
 
 ## Contato
-Eduardo Pires — eduardoedu9685@email.com  
-
+Eduardo — eduardoedu9685@email.com  
