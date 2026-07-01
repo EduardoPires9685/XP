@@ -1,7 +1,9 @@
   🚀 Mente Binária: Do Zero ao Um 2026!
   
 Período: 04/2026 - 07/2026
+
 Metodologia: Aulas ao vivo (segunda a sabado) + 10 Mentorias Individuais Personalizadas
+
 Instituição: Mente Binária
 
   🎯 Objetivo do Curso:
